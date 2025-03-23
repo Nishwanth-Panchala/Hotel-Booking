@@ -12,7 +12,7 @@ Stay Booker Pro is a production-ready hotel booking website built with modern we
 - **Continuous Integration (CI)**: Automated testing and build checks using **GitHub Actions**.
 - **Pre-Commit Hooks**: Maintains code quality with Husky and ESLint.
 
-For the backend API, check out the [Stay Booker Express API](https://github.com/iZooGooD/stay-booker-hotel-booking-express-api).
+For the backend API, check out the [Stay Booker Express API](https://github.com/Nishwanth-Panchala/Hotel-Booking.git).
 
 ---
 
@@ -41,12 +41,12 @@ Ensure you have the following installed before starting:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/iZooGooD/stay-booker-pro.git
+    git clone (https://github.com/Nishwanth-Panchala/Hotel-Booking.git)
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd stay-booker-pro
+    cd Hotel-Booking
     ```
 
 3. Install dependencies:
